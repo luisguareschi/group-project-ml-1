@@ -1,15 +1,13 @@
-# Customer Churn Prediction
-
-A machine learning project to predict customer churn for a telecommunications company using logistic regression.
+# Machine Learning Project
 
 ## Overview
 
-This project analyzes customer data to predict the probability of customer churn. The dataset contains customer information including demographics, services, billing details, and churn status.
+This is a machine learning project to do various analyses and predictions on the data.
 
 ## Project Structure
 
 - `***.ipynb` - Jupyter notebook(s) with the analysis
-- `churn.csv` - Customer dataset
+- `madrid_rent_data.xlsx` - Madrid rent data
 - `requirements.txt` - Python dependencies
 
 ## Setup
