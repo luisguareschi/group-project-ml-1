@@ -2,7 +2,16 @@
 
 ## Overview
 
-This is a machine learning project to do various analyses and predictions on the data.
+Segmentation and Predictive Modeling for Madrid’s Housing rental market 
+
+**Made by:**
+
+- Alejandro Gutierrez Werner  
+- Apilash Balasingham  
+- Fhadah Alromy  
+- Lucia Pellicer Cascales  
+- Luis Soto Guareschi  
+- Ignacio Sahonero Vadillo
 
 ## Project Structure
 
@@ -12,6 +21,8 @@ This is a machine learning project to do various analyses and predictions on the
 - `madrid_rent_data.xlsx` - Madrid rent data
 - `madrid_rent_data_clustered.csv` - Madrid rent data with the clusters assigned to each row from the segmentation
 - `requirements.txt` - Python dependencies
+- `instructions.pdf` - Instructions for the project
+- `Analysis of Rental Market for Madrid Housing.pdf` - Analysis of Rental Market for Madrid Housing
 
 ## Setup
 
